@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina</title>
+    <style>
+        body {
+            font: normal 14pt Arial;  
+        }
+       .pagina {
+            display: flex;
+            list-style: none;
+        }
+        .pagina li {
+            padding: 5px 17px;
+            color: rgb(0, 119, 255);
+            border: 1px solid black;
+            border-radius: 3px;
+        }
+
+        .pagination-hover li:hover {
+            background: lightgray;  
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        <li>
+            <h2>Normal</h2>
+        </li>
+    </ul>
+    <ul class="pagina">
+        <li>&laquo;</li>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>&raquo;</li>
+    </ul>
+    
+   <ul>
+    <li>
+        <h2>Quando passar o mouse</h2>
+    </li>
+   </ul>
+    <ul class="pagina pagination-hover">
+        <li>&laquo;</li>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>&raquo;</li>
+    </ul>
+</body>
+</html>
