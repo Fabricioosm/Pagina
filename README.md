@@ -2,7 +2,7 @@
 ## 📌 Sobre o Projeto
 Este projeto foi desenvolvido como atividade da disciplina Responsive Web Development, no curso de Análise e Desenvolvimento de sistemas, Universidade do Vale do Itajaí.
 
-Esse projeto foi criar uma implementação simples de um componente de paginação utilizando HTML5 e CSS3, onde tem como objetivo principal a interação do efeito 'hover', que muda a cor do botão ao passar o mouse porm cima. 
+O projeto foi criar uma implementação simples de um componente de paginação utilizando HTML5 e CSS3, onde tem como objetivo principal a interação do efeito 'hover', que muda a cor do botão ao passar o mouse porm cima. 
 
 ## 🛠️ Funcionalidades Implementadas
 - ✅ Normal – Uma barra de paginação estática com os botões de navegação.
