@@ -17,3 +17,4 @@ Esse projeto foi criar uma implementação simples de um componente de paginaç�
 - └── README.md - Documentação do projeto
   
 ## 🌐 Acesso ao Projeto
+https://fabricioosm.github.io/Pagina/
